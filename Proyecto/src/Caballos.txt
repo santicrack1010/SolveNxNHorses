@@ -1,0 +1,74 @@
+(1,1)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(0,0)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(1,1)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(0,0)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(1,1)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(0,0)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(1,0)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(0,0)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(0,0)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+(1,1)
+
+[C][C]
+[C][C]
+
+
+El numero maximo de caballos en esta solucion es de 4
+
+El numero maximo de caballos en un tablero de 2 x 2 sin atacarse es 4
+
+El numero maximo de soluciones posibles para un tablero de 2 x 2 es 4
